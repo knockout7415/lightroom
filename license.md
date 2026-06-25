@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![下载 Lightroom](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/lightroom-download)
+[![下载 Lightroom](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/lightroom-download)
 
 </div>
 
@@ -109,7 +109,7 @@
 6. **🎉 专业版解锁** — 所有功能自动生效
 7. **📸 开始修图** — 导入照片开始调色
 
-[![下载 Lightroom](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/lightroom-download)
+[![下载 Lightroom](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/lightroom-download)
 
 ### 导入照片
 
@@ -200,7 +200,7 @@
 
 <div align="center">
 
-[![下载 Lightroom](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/lightroom-download)
+[![下载 Lightroom](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/lightroom-download)
 
 **版本 4.6.1** — 专业照片调色。永久免费。
 
